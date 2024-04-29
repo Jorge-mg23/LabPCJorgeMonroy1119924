@@ -1,0 +1,35 @@
+print()
+print()
+print("Semana No. 10: Ejercicio 2")
+A=int(input("Ingrese un número mayor a cero (A): "))
+B=int(input("Ingrese un segundo número mayor a cero (B): "))
+C=int(input("Ingrese un tercer número mayor a cero (C): "))
+
+if A<0 and B<0 and C<0:
+    print("Número inválido")
+else: 
+    if A>B:
+        if A>C:
+            print("A es mayor a C y B")
+        else: 
+            if A==C:
+                print("A y C son mayores a B")
+            else:
+                print("C es mayor a A y B")
+    else:
+        if A==B:
+            if A>C:
+                print("A y B son mayores a C")
+            else:
+                if A==C:
+                    print("A, B y C son iguales")
+                else: 
+                    print ("C es mayor a A y B")
+        else:
+            if B>C:
+                print("B es mayor a A y C")
+            else: 
+                if B==C:
+                    print("B y C son mayores a A")
+                else: 
+                    print("C es mayor a A y B")

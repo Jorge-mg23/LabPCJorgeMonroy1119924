@@ -1,0 +1,6 @@
+1. i = 0
+2. nombres = ["Luis", "Pedro", "Rodrigo", "Jorge","omar"]
+3. edades = [20, 30, 40, 50, 24, 60]
+4. mientras i sea mayor o igual a 5:
+5.     leer (f"Soy {nombres[i]} y tengo {edades[i]} años")
+6.     i = i+1

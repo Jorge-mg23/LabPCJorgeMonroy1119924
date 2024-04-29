@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-02-06T13:34:11.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wW9b4Tpt4sDhv6HVBWA_" version="23.1.1" type="device">
+  <diagram name="Página-1" id="FrcIEV6jjaayG3UNik6Z">
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ksupip2cHll0oup34k--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ksupip2cHll0oup34k--1" target="8ksupip2cHll0oup34k--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksupip2cHll0oup34k--1" value="&lt;div&gt;Entrada:&amp;nbsp;&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;40&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;&lt;div&gt;12&lt;/div&gt;&lt;div&gt;18&lt;/div&gt;&lt;div&gt;70&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksupip2cHll0oup34k--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ksupip2cHll0oup34k--2" target="8ksupip2cHll0oup34k--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksupip2cHll0oup34k--2" value="Proceso:&amp;nbsp;&lt;br&gt;Hacer una comparación entre todos los números y de esta manera determinar cuales son los números más pequeños iniciando desde el uno para así ordenarlos desde el mas pequeño al más grande." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="334" y="60" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8ksupip2cHll0oup34k--3" value="Salida:&amp;nbsp;&lt;br&gt;&lt;div&gt;&quot;Los números ordenados son&quot;&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;12&lt;/div&gt;&lt;div&gt;18&lt;/div&gt;&lt;div&gt;22&lt;/div&gt;&lt;div&gt;40&lt;/div&gt;&lt;div&gt;70&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="60" width="230" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

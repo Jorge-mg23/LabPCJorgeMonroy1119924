@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-02-05T15:30:22.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ckfXBvq3oMgoUkVqYZju" version="23.1.1" type="device">
+  <diagram name="Página-1" id="gTnZ79C8MINCM_ysMXtn">
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q5Egeqe7iIP9B3alixse-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-1" target="q5Egeqe7iIP9B3alixse-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-2" target="q5Egeqe7iIP9B3alixse-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-2" value="Se está utilizando un pc personal&lt;br&gt;Insumos de la impresora&lt;br&gt;Estado de la impresora" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="150" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-4" target="q5Egeqe7iIP9B3alixse-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-4" target="q5Egeqe7iIP9B3alixse-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-4" value="Muestra el detalle del problema" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="260" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-5" value="Seguir el proceso en base al mensaje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-6" target="q5Egeqe7iIP9B3alixse-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-6" target="q5Egeqe7iIP9B3alixse-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-6" value="¿la impresora tiene insumos necesarios?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="400" width="261" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-10" value="Sí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-11" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-12" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-13" value="Sí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-14" target="q5Egeqe7iIP9B3alixse-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-14" value="Procede a imprimir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-17" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="676" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Egeqe7iIP9B3alixse-19" target="q5Egeqe7iIP9B3alixse-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Egeqe7iIP9B3alixse-19" value="Cargar insumos&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="341" y="530" width="146" height="146" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

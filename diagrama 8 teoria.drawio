@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T04:21:51.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Yk3b92Z19Sur4KD9EPQT" version="23.1.5" type="device">
+  <diagram name="Página-1" id="K4E_o8cryeV9bXCkJpDH">
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-1" target="C5fx0SeOZMD5RNT_-bHe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-2" target="C5fx0SeOZMD5RNT_-bHe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-2" value="ingrese numero de item" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-4" target="C5fx0SeOZMD5RNT_-bHe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-4" value="El item es x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="240" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-6" target="C5fx0SeOZMD5RNT_-bHe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-6" value="despachar y revisar el item" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-8" target="C5fx0SeOZMD5RNT_-bHe-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="490" />
+              <mxPoint x="180" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-8" target="C5fx0SeOZMD5RNT_-bHe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-8" value="El item esta defectuoso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="450" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5fx0SeOZMD5RNT_-bHe-13" target="C5fx0SeOZMD5RNT_-bHe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-13" value="Enviar comprobante" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-15" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-17" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="428" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fx0SeOZMD5RNT_-bHe-18" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="528" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
